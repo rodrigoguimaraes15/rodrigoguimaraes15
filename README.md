@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Rodrigo Guimarães
 - I live in Brazil, São Paulo, SP - Capão Redondo 😃🏙️🏠
-- Atualmente, estou estudando muito .net, SQL Server 🤓💻
+- Atualmente, estou estudando muito .Net, SQL Server 🤓💻
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/rodrigo-guimar%C3%A3es-1163a1141/" target="_blank">
